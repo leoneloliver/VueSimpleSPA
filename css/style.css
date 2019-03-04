@@ -24,6 +24,10 @@ p {
 .content {
 	padding: 20px;
 }
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
 .logo {
   width: 32px;
   float: left;
