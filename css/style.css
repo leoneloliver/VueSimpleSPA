@@ -15,8 +15,8 @@ nav a{
 }
 h2 {
   font-size: 1.3em;
-  color: #3dae7c;
-  text-shadow: 1px 1px #35495e61;
+  color: #4d4d4d;
+  font-weight: 200;
 }
 p {
   font-size: 0.9em;
@@ -25,7 +25,7 @@ p {
   text-align: center;
 }
 .info-bar {
-  background: #41b883;
+  background: #3faf75;
   padding: 5px;
   color: #fff;
   font-size: 0.9em;
