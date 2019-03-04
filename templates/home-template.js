@@ -1,4 +1,3 @@
-// Note that these are backticks.
 const HomeTemplate = `
   <div>
   	<h2>Home is here!</h2>
